@@ -37,6 +37,13 @@ MRS for Trainers
 
 You can use RTVS and the DSVM. For classrooms, we have been using RStudio Server, but we are transitioning to Jupyter. Hopefully, we can use JupyterHub to easily deploy classrooms later this year.
 
+
+## VMs
+
++ [VM One](137.116.75.129:9999/tree)
++ [VM Two](137.116.67.7:9999/tree)
+
+
 # Course Repository
 
 We are still in the process of transitioning our course materials from our Revolution Repository to the Azure repository and Cortana gallery. Currently, you can find the following two courses on the Cortana Gallery:
