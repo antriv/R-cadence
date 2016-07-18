@@ -40,8 +40,10 @@ You can use RTVS and the DSVM. For classrooms, we have been using RStudio Server
 
 ## VMs
 
-+ [VM One](137.116.75.129:9999/tree)
-+ [VM Two](137.116.67.7:9999/tree)
++ [VM One]
+    * 137.116.75.129:9999/tree
++ [VM Two]
+    * 137.116.67.7:9999/tree
 
 
 # Course Repository
